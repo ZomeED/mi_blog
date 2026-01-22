@@ -8,7 +8,7 @@ body {
 
 /* Cabecera */
 header {
-  background-color: #333;
+  background-color: #403;
   color: #fff;
   padding: 20px;
   text-align: center;
@@ -31,12 +31,12 @@ nav a {
 
 /* Contenido principal */
 main {
-  padding: 20px;
+  padding: 25px;
 }
 
 /* Pie de página */
 footer {
-  background-color: #333;
+  background-color: #703;
   color: #fff;
   text-align: center;
   padding: 10px;
