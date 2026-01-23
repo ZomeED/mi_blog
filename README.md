@@ -14,7 +14,7 @@ El sitio está publicado y accesible en la siguiente dirección:
 * **CSS3:** Personalización de estilos (Paleta de colores azul profesional y tipografía).
 * **JavaScript:** Lógica interactiva en el cliente.
 * **Git & GitHub:** Control de versiones y repositorio remoto.
-* **Visual Studio Code / Terminal:** Entorno de desarrollo en Windows 11.
+* **Visual Studio Code / Terminal:** Entorno de Git Bash en Windows 11.
 
 ---
 
@@ -61,4 +61,5 @@ Durante la realización de esta práctica en Windows 11, he reforzado varios con
 
 ---
 *Autor: Jose Antonio Zomeño Pardo*
+
 *Ciclo: Desarrollo de Aplicaciones Web 2º Curso*
